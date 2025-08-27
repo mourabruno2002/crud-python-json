@@ -22,7 +22,7 @@ utilizando **arquivos JSON** como forma de persistência de dados.
 ## 🚀 Como executar  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seuusuario/crud-python-json.git
+   git clone https://github.com/mourabruno2002/crud-python-json.git
 Abra o projeto no PyCharm (ou outro editor Python).
 
 Execute o arquivo main.py.
