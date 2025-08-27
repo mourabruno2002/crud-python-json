@@ -14,13 +14,9 @@ utilizando **arquivos JSON** como forma de persistência de dados.
 
 ## 📂 Estrutura do Projeto  
     crud-python-json/
-
         └── main.py
-
         └── README.md
-
         └── imagens/
-
             └── preview.png
 
 ## 🚀 Como executar  
